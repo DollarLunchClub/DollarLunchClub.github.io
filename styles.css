@@ -2,7 +2,7 @@
   height:500px;
   position:relative;
   margin:0 auto;
-  width: 90%;
+  width: 50%;
 }
 .carousel-item{
   position:absolute;
@@ -134,3 +134,10 @@
       color: #ffffff;
       font-size: 1.8em;
   }
+
+ h9 {
+    margin-top: 0px;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 1 em;
+}
