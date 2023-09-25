@@ -1,8 +1,8 @@
 .carousel-wrapper{
   height:500px;
   position:relative;
-  width:1300px;
   margin:0 auto;
+  width: 90%;
 }
 .carousel-item{
   position:absolute;
