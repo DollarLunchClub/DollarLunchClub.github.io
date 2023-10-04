@@ -1,0 +1,64 @@
+nav{
+    width: 100%;
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: cursive;
+  }
+  
+  nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+  }
+  
+  nav ul li a{
+    text-decoration: none;
+    color: black;
+  }
+
+.nav-links{
+    text-align:right;
+    width: 100% ;
+}
+
+h3{
+    text-align: center;
+   font-family: cursive;
+    color: #000000;
+    font-size: 4em;
+}
+
+h6{
+    text-align: center;
+    font-family: cursive;
+    color: #000000;
+    font-size: 2em;
+}
+
+body {
+    background-color:rgb(254,244,233)
+}
+
+.grid-container{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.grid-container img{
+  max-width: 100%;
+}
+.logo {
+    max-width: 10vw;
+    max-height: 10vw;
+    margin: 1vw;
+    height: fit-content;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+   width: 100% ;
+}
+
+ 
