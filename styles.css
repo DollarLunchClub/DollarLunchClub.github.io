@@ -3,7 +3,6 @@ nav{
   display : flex;
   align-items: center;
   justify-content: space-between;
-  font-family: cursive;
 }
 
 nav ul li{
@@ -121,14 +120,12 @@ body {
   
   h6 {
     margin-top: 0px;
-    font-family: cursive;
     color: #000000;
     font-size: 5em;
   }
 
   h3 {
     margin-top: 0px;
-    font-family: cursive;
     color: #000000;
     font-size: 3em;
     padding:25px 50px;
@@ -136,7 +133,6 @@ body {
 
   h7{
     margin-top: 0px;
-    font-family: cursive;
     color: #000000;
     font-size: 1em;
     text-align: center;
@@ -144,7 +140,6 @@ body {
 
   h8 {
     margin-top: 0px;
-    font-family: cursive;
     color: #000000;
     font-size: 1.2em;
     padding:25px 675px;
@@ -152,7 +147,6 @@ body {
 
   h2 {
     margin-top: 0px;
-    font-family: cursive;
     color: #ffffff;
     font-size: 1.2em;
    }
